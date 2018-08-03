@@ -42,6 +42,7 @@
             echo $_POST["datetime"];
             echo "oldu her sey";
             echo "Deyesen olmadi hesne ama baxmaq lazimdir.";
+            echo "Sanki indi daha dogru oldu";
     }
 
 ?>
