@@ -41,6 +41,7 @@
             echo $_POST["datetime"];
             echo $_POST["datetime"];
             echo "oldu her sey";
+        echo "zirt olduuuuuuuuuu";
     }
 
 ?>
